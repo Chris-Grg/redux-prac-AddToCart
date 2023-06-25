@@ -1,3 +1,5 @@
+![image](https://github.com/Chris-Grg/redux-prac-AddToCart/assets/121335744/c3d3c03e-8f4b-4582-ac0e-16b733eb2c09)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
